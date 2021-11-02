@@ -153,7 +153,7 @@ class _ThemedataState extends State<Themedata> {
                     ),
                     ListTile(
                       onTap: () {},
-                      leading: Icon(Icons.lock),
+                      leading: Icon(Icons.share),
                       title: Padding(
                         padding: const EdgeInsets.all(8.0),
                         child: Text("Share to Friends "),
